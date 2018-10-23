@@ -1,0 +1,7 @@
+c:\users\318120799\source\repos\Lista10Ex\Lista10Ex\bin\Debug\Lista10Ex.exe.config
+c:\users\318120799\source\repos\Lista10Ex\Lista10Ex\bin\Debug\Lista10Ex.exe
+c:\users\318120799\source\repos\Lista10Ex\Lista10Ex\bin\Debug\Lista10Ex.pdb
+c:\users\318120799\source\repos\Lista10Ex\Lista10Ex\obj\Debug\Lista10Ex.csprojAssemblyReference.cache
+c:\users\318120799\source\repos\Lista10Ex\Lista10Ex\obj\Debug\Lista10Ex.csproj.CoreCompileInputs.cache
+c:\users\318120799\source\repos\Lista10Ex\Lista10Ex\obj\Debug\Lista10Ex.exe
+c:\users\318120799\source\repos\Lista10Ex\Lista10Ex\obj\Debug\Lista10Ex.pdb
